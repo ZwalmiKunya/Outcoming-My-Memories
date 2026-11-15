@@ -48,7 +48,7 @@ local function attemptToUpdateSounds()
 			local fileExists = isfile(foundDirectory)
 
 			if asset_id and fileExists and asset_id ~= soundId and soundId then
-				-warn("UPDATING SOUND",Sound.Name,"WITH", foundDirectory)
+				warn("UPDATING SOUND",Sound.Name,"WITH", foundDirectory)
 				print(asset_id, soundId)
 
 				Sound:SetAttribute("PreviousSound", soundId)--soundId)
