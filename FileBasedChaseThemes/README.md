@@ -2,7 +2,7 @@
 Custom chase themes script (use only mp3 .files)
 How to use:
   1. If this is your first time using this script, first execute it to create the folders
-  2. Insert .mp3 files into the skin folder of the characters, change custom chase themes fileNames with any of the names within this table -> {"NormalChase", "LastLifeChase", "TerrorRadius", "Rage"}
+  2. Insert .mp3 files into the skin folder of the characters, change audio fileNames with any of the names within this table -> {"NormalChase", "LastLifeChase", "TerrorRadius", "Rage"}
   ---------------------------
     EXAMPLE:
     📁Character (2011x)
