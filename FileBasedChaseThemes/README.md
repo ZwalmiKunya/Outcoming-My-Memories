@@ -14,5 +14,5 @@ How to use:
 
 ## Execute string
 ```lua
-loadstring(game:HttpGet("https://github.com/ZwalmiKunya/Outcoming-My-Memories/raw/main/FileBasedChaseThemes/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZwalmiKunya/Outcoming-My-Memories/refs/heads/main/FileBasedChaseThemes/main.lua"))()
 ```
