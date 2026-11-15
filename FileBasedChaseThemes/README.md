@@ -16,3 +16,5 @@ How to use:
 ```lua
 loadstring(game:HttpGet("https://github.com/ZwalmiKunya/Outcoming-My-Memories/raw/main/FileBasedChaseThemes/main.lua"))()
 ```
+
+#### p.s. im too lazy to change this later
