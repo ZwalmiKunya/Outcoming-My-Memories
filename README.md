@@ -1,1 +1,2 @@
-dhyuasdijask i got no scripts made yet come back soon
+scripts for Outcome Memories
+# [File based chase themes](FileBasedChaseThemes)
