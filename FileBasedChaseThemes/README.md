@@ -18,3 +18,4 @@ loadstring(game:HttpGet("https://github.com/ZwalmiKunya/Outcoming-My-Memories/ra
 ```
 
 #### p.s. im too lazy to optimize this code
+kolossos chase theme is just its terrorradius, fix coming soon
