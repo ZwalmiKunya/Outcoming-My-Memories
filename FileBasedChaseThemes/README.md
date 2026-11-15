@@ -1,4 +1,4 @@
-# File based chase themes
+# File based chase theme
 Custom chase themes script (use only mp3 .files)
 How to use:
   1. If this is your first time using this script, first execute it to create the folders
